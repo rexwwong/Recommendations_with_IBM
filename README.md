@@ -7,7 +7,7 @@ This is a Recommendation Project within Udacity Data Scientist Nanodegree.
 Main **libraries** were used for this project.
 
 `pandas version 0.23.3`
-<br> matplotlib version 2.1.0`
+<br> `matplotlib version 2.1.0`
 <br> `sklearn version 0.19.0`
 <br> `numpy version 1.12.1`
 
